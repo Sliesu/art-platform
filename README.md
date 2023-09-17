@@ -1,4 +1,4 @@
-# commerce-platform
+# art-platform
 
 ## Project setup
 ```
