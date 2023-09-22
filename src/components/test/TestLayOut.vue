@@ -13,7 +13,7 @@
             <el-menu-item index="1">首页</el-menu-item>
             <el-menu-item index="2">课程</el-menu-item>
             <el-menu-item index="3">教师</el-menu-item>
-            <el-menu-item index="4">关于</el-menu-item>
+            <el-menu-item index="4">关于我们</el-menu-item>
           </el-menu>
         </div>
       </el-header>
