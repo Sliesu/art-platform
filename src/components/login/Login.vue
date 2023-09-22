@@ -4,7 +4,7 @@
     <template #header>
       <div class="card-header">
         <span>用户登录</span>
-        <el-button class="button" text>统一身份认证平台</el-button>
+        <el-button class="button" text>注册新账号</el-button>
       </div>
     </template>
     <div class="login_container">
